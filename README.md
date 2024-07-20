@@ -1,2 +1,2 @@
 # decision-tree-generator
-A NPM package for creating decision trees based on a series of questions
+A NPM package for creating decision trees based on an array of yes/no questions
