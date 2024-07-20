@@ -1,0 +1,16 @@
+{
+  "name": "decision-tree-generator",
+  "version": "1.0.0",
+  "description": "A NPM package for creating decision trees based on an array of yes/no questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/JBeckintosh/decision-tree-generator"
+  },
+  "keywords": ["decision","tree","generator"],
+  "author": "James Beck (https://github.com/JBeckintosh/)",
+  "license": "MIT"
+}
