@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "dependencies": {
+      "decision-tree-generator": "^1.0.0"
+    }
+  }
+  
